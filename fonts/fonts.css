@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Source Sans 3";
+  src: url(./SourceSans3-Regular.ttf);
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3" ;
+  src: url(./SourceSans3-SemiBold.ttf);
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3" ;
+  src: url(./SourceSans3-Bold.ttf);
+  font-weight: 800;
+  font-display: swap;
+}
